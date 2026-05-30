@@ -165,9 +165,6 @@ Veja as [issues abertas](https://github.com/seu-usuario/wattiz/issues) para acom
 
 
 
-
-## Nosso Time
- 
 ## Nosso Time
 
 <div align="center">
@@ -191,7 +188,9 @@ Veja as [issues abertas](https://github.com/seu-usuario/wattiz/issues) para acom
 </div>
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
-<div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
+ 
+
+
  
 
 ## Licença
