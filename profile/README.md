@@ -163,154 +163,34 @@ Veja as [issues abertas](https://github.com/seu-usuario/wattiz/issues) para acom
 
 ---
 
-## Nosso Time
-
-
-
-
-
-
-
-
-
 
 
 
 ## Nosso Time
  
+## Nosso Time
+
 <div align="center">
+
 <br/>
-<img src="wattiz_team_pixel_bulbs.svg" width="600" alt="Time Wattiz — pixel art lâmpadas">
+
+<img src="wattiz_team_pixel_bulbs.svg" width="680" alt="Time Wattiz — pixel art lâmpadas">
+
 <br/><br/>
- 
-<table>
-  <tr>
-    <td align="center" style="padding: 16px;">
-      <a href="https://github.com/larissaanjosdev">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGIIAImBSd__g/profile-displayphoto-crop_800_800/B4DZ15iQXmJoAI-/0/1775860517999?e=1781740800&v=beta&t=SygSab7ArHFT1pCGnqNZ1SUWzs2xaalI5vaLClvdRdc" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Larissa Anjos" />
-        <br/>
-        <sub><b>Larissa Anjos</b></sub>
-      </a>
-      <br/>
-      <sub>Back End</sub>
-      <br/><br/>
-      <a href="https://github.com/larissaanjosdev">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/larissa-dos-anjos-santos-76728a329/">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-    <td align="center" style="padding: 16px;">
-      <a href="https://github.com/Tiasgod">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQFfms3Wg5QUyw/profile-displayphoto-scale_400_400/B4DZ3vrWmxJIAg-/0/1777842614886?e=1781740800&v=beta&t=nteTqiBrbbL8O7l6UiXJAGiTe5nMQ91sxaYvJNKGKi8" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Tiago Dias" />
-        <br/>
-        <sub><b>Tiago Dias</b></sub>
-      </a>
-      <br/>
-      <sub>Product Owner</sub>
-      <br/><br/>
-      <a href="https://github.com/Tiasgod">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/tiagopdias-02-2004-ti/">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-    <td align="center" style="padding: 16px;">
-      <a href="https://github.com/Arianeslf">
-        <img src="https://media.licdn.com/dms/image/v2/D4E03AQHYwaIH68u6Sg/profile-displayphoto-scale_400_400/B4EZ2H54fpJwAg-/0/1776101594187?e=1781740800&v=beta&t=gJT_7HBpDN0PkgzKjx_odHY2EynUXztAoH7HcABVFz0" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Ariane Silvestre" />
-        <br/>
-        <sub><b>Ariane Silvestre</b></sub>
-      </a>
-      <br/>
-      <sub>Front End</sub>
-      <br/><br/>
-      <a href="https://github.com/Arianeslf">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/ariane-silvestre-maira-632734236/">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 16px;">
-      <a href="https://github.com/vanessa-py">
-        <img src="https://avatars.githubusercontent.com/vanessa-py" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Carla Vanessa" />
-        <br/>
-        <sub><b>Carla Vanessa</b></sub>
-      </a>
-      <br/>
-      <sub>Full Stack</sub>
-      <br/><br/>
-      <a href="https://github.com/vanessa-py">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/carla-vanessa-souza">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-    <td align="center" style="padding: 16px;">
-      <a href="https://github.com/leonardobarca">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQE1UL-1hlLFXw/profile-displayphoto-crop_800_800/B4DZ5Shh3AKwAI-/0/1779500983074?e=1781740800&v=beta&t=IX1sdcegPkbWHM-kM50ITq0ZCb0bMeunwIQXSXn-Vo8" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Leonardo Barca" />
-        <br/>
-        <sub><b>Leonardo Barca</b></sub>
-      </a>
-      <br/>
-      <sub>Back End</sub>
-      <br/><br/>
-      <a href="https://github.com/leonardobarca">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/leonardobarca/">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-    <td align="center" style="padding: 16px;">
-      <a href="https://github.com/GuilhermeMCavalcanti">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGyXdZxQpsc7Q/profile-displayphoto-scale_400_400/B4DZ3IhBnAI8Ag-/0/1777185595553?e=1781740800&v=beta&t=PTWZdGWxIDi4ZEuqiNI113xlOTny3VpcD5RPdZn_Ct4" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Guilherme Cavalcanti" />
-        <br/>
-        <sub><b>Guilherme Cavalcanti</b></sub>
-      </a>
-      <br/>
-      <sub>Full Stack</sub>
-      <br/><br/>
-      <a href="https://github.com/GuilhermeMCavalcanti">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/guilhermecavalcanti2005/">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding: 16px;">
-      <a href="https://github.com/pedypowgui">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGCWd8chXlcBA/profile-displayphoto-scale_400_400/B4DZ2Yv2xXHoAg-/0/1776384177061?e=1781740800&v=beta&t=BMRuWREuA9anwtKytNe8jOrEn0Crd24JlHPiUHwIrCQ" width="100px" height="100px" style="border-radius: 50%; border: 3px solid #6B21D0;" alt="Guilherme Brito" />
-        <br/>
-        <sub><b>Guilherme Brito</b></sub>
-      </a>
-      <br/>
-      <sub>Front End</sub>
-      <br/><br/>
-      <a href="https://github.com/pedypowgui">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/guilhermebritodossantos/">
-        <img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+| Membro | Cargo | Links |
+|:---:|:---:|:---:|
+| **Larissa Anjos** | Back End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/larissaanjosdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/larissa-dos-anjos-santos-76728a329/) |
+| **Tiago Dias** | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/Tiasgod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/tiagopdias-02-2004-ti/) |
+| **Ariane Silvestre** | Front End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/Arianeslf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/ariane-silvestre-maira-632734236/) |
+| **Carla Vanessa** | Full Stack | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/vanessa-py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/carla-vanessa-souza) |
+| **Leonardo Barca** | Back End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/leonardobarca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/leonardobarca/) |
+| **Guilherme Cavalcanti** | Full Stack | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/GuilhermeMCavalcanti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/guilhermecavalcanti2005/) |
+| **Guilherme Brito** | Front End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/pedypowgui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/guilhermebritodossantos/) |
+
 </div>
+
+<div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
  
 
