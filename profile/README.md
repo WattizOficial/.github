@@ -1,5 +1,8 @@
-### ⚡ Monitore. Economize. Controle.
-**Plataforma inteligente de monitoramento de energia para residências e pequenos negócios.**
+<div align="center" id="readme-top">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21D0&height=180&section=header&text=⚡%20Wattiz&fontSize=60&fontColor=FFD84C&animation=fadeIn&fontAlignY=38&desc=Monitore.%20Economize.%20Controle.&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
+
+### Plataforma inteligente de monitoramento de energia para residências e pequenos negócios.
 
 <br/>
 
@@ -18,22 +21,20 @@
 </div>
 
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
 - [Como Começar](#como-começar)
-  - [Pré-requisitos](#pré-requisitos)
-  - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Roadmap](#roadmap)
-- [Nosso Time](#nosso-time)
+- [Funcionalidades](#funcionalidades)
+- [Contribuidores](#contribuidores)
 - [Licença](#licença)
 - [Contato](#contato)
+- [Agradecimentos](#agradecimentos)
 
 ---
 
 ## Sobre o Projeto
 
-> **Wattiz** é uma plataforma de monitoramento de energia elétrica em tempo real, desenvolvida para ajudar famílias e pequenos negócios a **entender, controlar e reduzir** seu consumo de energia — de forma simples, visual e inteligente.
+> **Wattiz** é uma plataforma de monitoramento de energia elétrica em tempo real, desenvolvida para ajudar **famílias e pequenos negócios** a entender, controlar e reduzir seu consumo de energia — de forma simples, visual e inteligente.
 
 Com o Wattiz, o usuário conecta seus dispositivos medidores ao sistema e passa a ter visibilidade total sobre o consumo da sua residência ou estabelecimento: por cômodo, por equipamento, por período. A plataforma ainda conta com **Lume**, nosso assistente virtual de energia, pronto para responder dúvidas e sugerir melhorias.
 
@@ -44,21 +45,6 @@ Com o Wattiz, o usuário conecta seus dispositivos medidores ao sistema e passa 
 - 🔌 Compatível com medidores de tomada e medidores digitais
 - 🤖 Assistente inteligente integrado para tirar dúvidas e dar dicas
 - 📱 Interface responsiva para desktop e mobile
-
-<div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
-
----
-
-## Funcionalidades
-
-| Funcionalidade | Descrição |
-|---|---|
-| 📊 **Dashboard em tempo real** | Visualize o consumo atual de energia da sua casa ou negócio |
-| 🔌 **Medidores inteligentes** | Compatível com tomadas medidoras e medidores digitais de parede |
-| 🤖 **Assistente Lume** | IA integrada para dúvidas, alertas e dicas de economia |
-| 👨‍👩‍👧 **Múltiplos perfis** | Suporte para famílias, residências e pequenos negócios |
-| 📈 **Histórico e relatórios** | Acompanhe sua evolução ao longo do tempo |
-| 🔐 **Autenticação segura** | Login protegido para seus dados de consumo |
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
 
@@ -97,7 +83,7 @@ npm -v
 1. Clone o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/wattiz.git
+git clone https://github.com/WattizOficial/wattiz.git
 ```
 
 2. Acesse a pasta do projeto
@@ -144,54 +130,45 @@ Após iniciar o projeto localmente:
 
 ---
 
-## Roadmap
+## Funcionalidades
 
-- [x] Landing page e identidade visual
-- [x] Telas de autenticação (login / cadastro)
-- [x] Dashboard de monitoramento
-- [x] Integração com medidores de tomada
-- [x] Assistente virtual Lume
-- [ ] App mobile (React Native)
-- [ ] Integração com concessionárias de energia
-- [ ] Alertas automáticos por consumo anormal
-- [ ] Relatórios em PDF exportáveis
-- [ ] Suporte multilíngue (EN / ES)
-
-Veja as [issues abertas](https://github.com/seu-usuario/wattiz/issues) para acompanhar o que está sendo desenvolvido.
+| Funcionalidade | Descrição |
+|---|---|
+| 📊 **Dashboard em tempo real** | Visualize o consumo atual de energia da sua casa ou negócio |
+| 🔌 **Medidores inteligentes** | Compatível com tomadas medidoras e medidores digitais de parede |
+| 🤖 **Assistente Lume** | IA integrada para dúvidas, alertas e dicas de economia |
+| 👨‍👩‍👧 **Múltiplos perfis** | Suporte para famílias, residências e pequenos negócios |
+| 📈 **Histórico e relatórios** | Acompanhe sua evolução ao longo do tempo |
+| 🔐 **Autenticação segura** | Login protegido para seus dados de consumo |
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
 
 ---
 
+## Contribuidores
 
+Quer contribuir com o Wattiz? Siga os passos abaixo:
 
-## Nosso Time
+1. **Faça um fork** do repositório
+2. **Crie uma branch** para sua feature
+```sh
+git checkout -b feature/minha-feature
+```
+3. **Commit** suas mudanças
+```sh
+git commit -m "feat: adiciona minha feature"
+```
+4. **Push** para a branch
+```sh
+git push origin feature/minha-feature
+```
+5. Abra um **Pull Request** descrevendo o que foi feito
 
-<div align="center">
-
-<br/>
-
-<img src="wattiz_team_pixel_bulbs.svg" width="680" alt="Time Wattiz — pixel art lâmpadas">
-
-<br/><br/>
-
-| Membro | Cargo | Links |
-|:---:|:---:|:---:|
-| **Larissa Anjos** | Back End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/larissaanjosdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/larissa-dos-anjos-santos-76728a329/) |
-| **Tiago Dias** | Product Owner | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/Tiasgod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/tiagopdias-02-2004-ti/) |
-| **Ariane Silvestre** | Front End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/Arianeslf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/ariane-silvestre-maira-632734236/) |
-| **Carla Vanessa** | Full Stack | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/vanessa-py) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/carla-vanessa-souza) |
-| **Leonardo Barca** | Back End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/leonardobarca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/leonardobarca/) |
-| **Guilherme Cavalcanti** | Full Stack | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/GuilhermeMCavalcanti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/guilhermecavalcanti2005/) |
-| **Guilherme Brito** | Front End | [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C)](https://github.com/pedypowgui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C)](https://www.linkedin.com/in/guilhermebritodossantos/) |
-
-</div>
+> Leia nossas diretrizes de contribuição antes de começar.
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
- 
 
-
- 
+---
 
 ## Licença
 
@@ -206,7 +183,100 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 **Wattiz** — plataforma de monitoramento de energia
 
 [![Email](https://img.shields.io/badge/contato%40wattiz.com.br-000000?style=for-the-badge&logo=gmail&logoColor=FFD84C)](mailto:contato@wattiz.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD84C)](https://github.com/seu-usuario/wattiz)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD84C)](https://github.com/WattizOficial)
+
+### Nosso Time
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/larissaanjosdev">
+        <img src="https://avatars.githubusercontent.com/larissaanjosdev" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Larissa Anjos"/>
+        <br/><sub><b>Larissa Anjos</b></sub>
+      </a>
+      <br/><sub>Back End</sub><br/><br/>
+      <a href="https://github.com/larissaanjosdev"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/larissa-dos-anjos-santos-76728a329/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Tiasgod">
+        <img src="https://avatars.githubusercontent.com/Tiasgod" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Tiago Dias"/>
+        <br/><sub><b>Tiago Dias</b></sub>
+      </a>
+      <br/><sub>Product Owner</sub><br/><br/>
+      <a href="https://github.com/Tiasgod"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/tiagopdias-02-2004-ti/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/vanessa-py">
+        <img src="https://avatars.githubusercontent.com/vanessa-py" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Carla Vanessa"/>
+        <br/><sub><b>Carla Vanessa</b></sub>
+      </a>
+      <br/><sub>Full Stack</sub><br/><br/>
+      <a href="https://github.com/vanessa-py"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/carla-vanessa-souza"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/Arianeslf">
+        <img src="https://avatars.githubusercontent.com/Arianeslf" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Ariane Silvestre"/>
+        <br/><sub><b>Ariane Silvestre</b></sub>
+      </a>
+      <br/><sub>Front End</sub><br/><br/>
+      <a href="https://github.com/Arianeslf"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/ariane-silvestre-maira-632734236/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/leonardobarca">
+        <img src="https://avatars.githubusercontent.com/leonardobarca" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Leonardo Barca"/>
+        <br/><sub><b>Leonardo Barca</b></sub>
+      </a>
+      <br/><sub>Back End</sub><br/><br/>
+      <a href="https://github.com/leonardobarca"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/leonardobarca/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/GuilhermeMCavalcanti">
+        <img src="https://avatars.githubusercontent.com/GuilhermeMCavalcanti" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Guilherme Cavalcanti"/>
+        <br/><sub><b>Guilherme Cavalcanti</b></sub>
+      </a>
+      <br/><sub>Full Stack</sub><br/><br/>
+      <a href="https://github.com/GuilhermeMCavalcanti"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/guilhermecavalcanti2005/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/pedypowgui">
+        <img src="https://avatars.githubusercontent.com/pedypowgui" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Guilherme Brito"/>
+        <br/><sub><b>Guilherme Brito</b></sub>
+      </a>
+      <br/><sub>Front End</sub><br/><br/>
+      <a href="https://github.com/pedypowgui"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/guilhermebritodossantos/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+    </td>
+    <td width="25%"></td>
+  </tr>
+</table>
+
+</div>
+
+<div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
+
+---
+
+## Agradecimentos
+
+- [Instituto Proa](https://www.institutoproa.org.br/) — pelo suporte e pela oportunidade de desenvolver este projeto
+
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
 
