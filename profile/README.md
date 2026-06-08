@@ -1,6 +1,6 @@
 <div align="center" id="readme-top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21D0&height=180&section=header&text=⚡%20Wattiz&fontSize=60&fontColor=FFD84C&animation=fadeIn&fontAlignY=38&desc=Monitore.%20Economize.%20Controle.&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21D0&height=180&section=header&text=⚡%20Wattiz&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=%20Iluminando.%20Seu.%20Caminho.&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
 
 ### Plataforma inteligente de monitoramento de energia para residências e pequenos negócios.
 
