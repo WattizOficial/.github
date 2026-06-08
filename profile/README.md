@@ -187,11 +187,9 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 
 ### Nosso Time
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/larissaanjosdev">
         <img src="https://avatars.githubusercontent.com/larissaanjosdev" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Larissa Anjos"/>
         <br/><sub><b>Larissa Anjos</b></sub>
@@ -201,7 +199,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       &nbsp;
       <a href="https://www.linkedin.com/in/larissa-dos-anjos-santos-76728a329/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/Tiasgod">
         <img src="https://avatars.githubusercontent.com/Tiasgod" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Tiago Dias"/>
         <br/><sub><b>Tiago Dias</b></sub>
@@ -211,7 +209,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       &nbsp;
       <a href="https://www.linkedin.com/in/tiagopdias-02-2004-ti/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/vanessa-py">
         <img src="https://avatars.githubusercontent.com/vanessa-py" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Carla Vanessa"/>
         <br/><sub><b>Carla Vanessa</b></sub>
@@ -221,7 +219,9 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       &nbsp;
       <a href="https://www.linkedin.com/in/carla-vanessa-souza"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <a href="https://github.com/Arianeslf">
         <img src="https://avatars.githubusercontent.com/Arianeslf" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Ariane Silvestre"/>
         <br/><sub><b>Ariane Silvestre</b></sub>
@@ -231,9 +231,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       &nbsp;
       <a href="https://www.linkedin.com/in/ariane-silvestre-maira-632734236/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/leonardobarca">
         <img src="https://avatars.githubusercontent.com/leonardobarca" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Leonardo Barca"/>
         <br/><sub><b>Leonardo Barca</b></sub>
@@ -243,7 +241,7 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       &nbsp;
       <a href="https://www.linkedin.com/in/leonardobarca/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://github.com/GuilhermeMCavalcanti">
         <img src="https://avatars.githubusercontent.com/GuilhermeMCavalcanti" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Guilherme Cavalcanti"/>
         <br/><sub><b>Guilherme Cavalcanti</b></sub>
@@ -253,7 +251,10 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       &nbsp;
       <a href="https://www.linkedin.com/in/guilhermecavalcanti2005/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td width="33%"></td>
+    <td align="center" width="33%">
       <a href="https://github.com/pedypowgui">
         <img src="https://avatars.githubusercontent.com/pedypowgui" width="100px" style="border-radius:50%;border:3px solid #6B21D0;" alt="Guilherme Brito"/>
         <br/><sub><b>Guilherme Brito</b></sub>
@@ -261,12 +262,11 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       <br/><sub>Front End</sub><br/><br/>
       <a href="https://github.com/pedypowgui"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/guilhermebritodossantos/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
+      <a href="https://www.linkedin.com/in/guilhermebritodossantos/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&FOD84C"/></a>
     </td>
-    <td width="25%"></td>
+    <td width="33%"></td>
   </tr>
 </table>
-
 </div>
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
