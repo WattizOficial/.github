@@ -1,6 +1,6 @@
 <div align="center" id="readme-top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B21D0&height=180&section=header&text=⚡%20Wattiz&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=%20Iluminando.%20Seu.%20Caminho.&descAlignY=58&descColor=ffffff&descSize=18" width="100%"/>
+<img src="https://avatars.githubusercontent.com/u/286386698?s=200&v=4" width="150px" style="border-radius:50%;" alt="Wattiz Logo"/>
 
 ### Plataforma inteligente de monitoramento de energia para residências e pequenos negócios.
 
@@ -187,6 +187,8 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 
 ### Nosso Time
 
+<div align="center">
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -262,11 +264,12 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
       <br/><sub>Front End</sub><br/><br/>
       <a href="https://github.com/pedypowgui"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=FFD84C"/></a>
       &nbsp;
-      <a href="https://www.linkedin.com/in/guilhermebritodossantos/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&FOD84C"/></a>
+      <a href="https://www.linkedin.com/in/guilhermebritodossantos/"><img src="https://img.shields.io/badge/LinkedIn-6B21D0?style=flat-square&logo=linkedin&logoColor=FFD84C"/></a>
     </td>
     <td width="33%"></td>
   </tr>
 </table>
+
 </div>
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
@@ -275,7 +278,11 @@ Distribuído sob a licença MIT. Veja [`LICENSE`](LICENSE) para mais informaçõ
 
 ## Agradecimentos
 
-- [Instituto Proa](https://www.institutoproa.org.br/) — pelo suporte e pela oportunidade de desenvolver este projeto
+A Wattiz agradece a cada um dos profissionais do Instituto Proa e do Senac Lapa Tito por nos ajudarem com suas visões e apoio sempre que necessário.
+
+ Agradecemos também a todos os nossos mentores, que nos trouxeram uma visão mercadológica extremamente valiosa, permitindo a criação desse projeto se tornar realista.
+
+ E por fim, agradecemos o empenho e dedicação de cada aluno dessa equipe, sem a união e força de cada um esse projeto nunca existiria.
 
 
 <div align="right"><a href="#readme-top">↑ voltar ao topo</a></div>
